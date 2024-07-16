@@ -1,0 +1,8 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+cout<<"this is a program written in git"
+retuen 0;
+}
+
